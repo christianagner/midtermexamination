@@ -1,0 +1,121 @@
+#rcorners1 {
+    border-radius: 5px;
+    background: #e4e4e4;
+    padding: 20px; 
+    width: 300px;
+    height: 350px;
+    margin-left: 50px;
+    margin-top: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+  } 
+
+  .example-header-image {
+    background-image: url('/assets/images/me.jpg');
+    background-size: cover;
+    width: 160px;
+    height: 160px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hr1 {
+      background-color: black;
+  }
+  .profile-name {
+      font-size: 20px;
+      margin-left: 55px;
+      margin-right: auto;
+  }
+
+  .prof-details {
+    margin-top: 20px;
+    font-size: 15px;
+    line-height: 1.8;
+  }
+
+
+
+.profile-card {
+    margin-top: -390px;
+    margin-left: 450px;
+    width: 700px;
+    background: #e4e4e4;
+}
+
+  .mci-style {
+      width: 100px;
+      height: 100px;
+      background-image: url('/assets/images/me.jpg')
+  }
+
+  .mtc-style {
+      margin-top: 140px;
+      font-size: 20px;
+  }
+
+  .mcs-style {
+      margin-left: 5px;
+      font-size: 20px;
+  }
+
+  .card-details {
+      margin-top: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 1100px;
+  }
+
+.aligned-with-icon{
+    position: absolute;
+    margin-top: 5px;
+    color: black;
+}
+
+.information-details1{
+    line-height: 1.8;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid rgb(255, 255, 255);
+    padding: 8px;
+  }
+  
+  #customers tr:nth-child(even){background-color: #cecece;}
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: rgb(221, 221, 221);
+  }
+
+
+
+  .profile-card2 {
+    margin-top: 40px;
+    margin-left: 450px;
+    width: 700px;
+    background: #e4e4e4;
+}
+
+.aligned-with-icon2{
+    position: absolute;
+    margin-top: 5px;
+    color: black;
+}
+
+.pre-details-card2 {
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    font-size: 15px;
+    margin-left: -15px;
+    text-align: justify;
+}
