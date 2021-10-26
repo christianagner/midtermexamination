@@ -7,9 +7,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
+  currentNav: string = 'Home';
   constructor() { }
 
   ngOnInit(): void {
+  }
+
+  navClick(current:string) {
+    this.currentNav = current;
   }
 
 }
