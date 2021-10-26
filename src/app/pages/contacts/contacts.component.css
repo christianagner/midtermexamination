@@ -1,0 +1,39 @@
+#rcorners1 {
+    border-radius: 5px;
+    background: #e4e4e4;
+    padding: 20px; 
+    width: 1200px;
+    height: 500px;
+    margin-left: 50px;
+    margin-top: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.h1-details1 {
+    font-size: 50px;
+    text-align: center;
+    color: #4355de;
+}
+
+.par-details1 {
+    text-align: center;
+}
+
+.with-icons {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.icon1 {
+    transform: scale(2);
+}
+.icon2 {
+    transform: scale(2);
+    margin-left: 300px;
+}
+.icon3 {
+    transform: scale(2);
+    margin-left: 300px;
+}
