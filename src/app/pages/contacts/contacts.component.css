@@ -1,0 +1,17 @@
+.h3-1 {
+    display: flex;
+    margin-top: 35px;
+    margin-left: 223px;
+    font-weight: normal;
+}
+.h3-2 {
+    display: flex;
+    justify-content: center;
+    margin-top: -43px;
+    font-weight: normal;
+}
+.h3-3 {
+    margin-top: -42px;
+    margin-left: 800px;
+    font-weight: normal;
+}
